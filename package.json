@@ -2,7 +2,7 @@
   "name": "homebridge-http-water-leak-sensor",
   "displayName": "HTTP Water Leak Sensor",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Homebridge plugin for water leak sensors that expose their readings over HTTP.",
   "author": "Jim Liu",
   "license": "Apache-2.0",
